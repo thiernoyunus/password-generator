@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s016me5elt",
+  "description": "https://scrimba.com/s016me5elt/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
