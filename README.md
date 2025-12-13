@@ -5,6 +5,7 @@ npm install
 npm start
 ```
 View project here: https://passwordgenerproject.netlify.app
+
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
 
